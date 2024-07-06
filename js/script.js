@@ -37,7 +37,7 @@ const config = {
     If you want to change skin type replace userSKinTypeInAdminTeam with something you want from array in comments
     */
     atGroupsDefaultColors: {
-        leaders: "rgba(255, 124, 124, 0.5)",
+        Owner: "rgba(255, 124, 124, 0.5)",
         developers: "rgba(230, 83, 0, 0.5)",
         helpers: "rgba(11, 175, 255, 0.5)",
         builders: "rgba(247, 2, 176, 0.5)",
