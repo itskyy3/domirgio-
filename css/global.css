@@ -40,39 +40,6 @@ body {
   background: var(--background-color);
   font-family: var(--main-font);
 }
-.btn2{
-  text-decoration: none;
-  padding: 10px;
-  border: 2px solid rgb(169, 104, 5);
-  border-radius: 100px;
-  width: 150px;
-  height: 50px;
-  color: white;
-  background-color: rgb(255, 166, 0);
-  cursor: pointer;
-}
-.btn3{
-  text-decoration: none;
-  padding: 10px;
-  border: 2px solid purple;
-  border-radius: 100px;
-  width: 170px;
-  height: 50px;
-  color: white;
-  background-color: darkorchid;
-  cursor: pointer;
-}
-.btn4{
-  text-decoration: none;
-  padding: 10px;
-  border: 2px solid rgb(255, 162, 0);
-  border-radius: 100px;
-  width: 170px;
-  height: 50px;
-  color: white;
-  background-color: gold;
-  cursor: pointer;
-}
 /*Navbar*/
 .navbar {
   display: flex;
