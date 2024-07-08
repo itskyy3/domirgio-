@@ -61,6 +61,12 @@ const config = {
                 rank: "Owner",
                 skinUrlOrPathToFile: "images/teoxgay.png",
                 rankColor: "rgba(255, 3, 3, 1)"
+            },
+            {
+                inGameName: "DESKTOP99",
+                rank: "Owner",
+                skinUrlOrPathToFile: "images/desktop.png",
+                rankColor: "rgba(255, 3, 3, 1)"
             }
         ],
         COOwner: [
@@ -71,10 +77,10 @@ const config = {
                 rankColor: "rgba(255, 3, 3, 1)"
             },
             {
-                inGameName: "DESKTOP99",
-                rank: "COOwner",
-                skinUrlOrPathToFile: "images/desktop.png",
-                rankColor: "rgba(255, 3, 3, 1)"
+                inGameName: "",
+                rank: "",
+                skinUrlOrPathToFile: "",
+                rankColor: ""
             }
         ],
         srAdmin: [
@@ -193,16 +199,16 @@ const config = {
                 rankColor: "Green"
             },
             {
-                inGameName: "Tredici",
-                rank: "Helper",
-                skinUrlOrPathToFile: "images/tre.png",
-                rankColor: "Green"
+                inGameName: "",
+                rank: "",
+                skinUrlOrPathToFile: "",
+                rankColor: ""
             },
             {
-                inGameName: "SAVERI0",
-                rank: "Helper",
-                skinUrlOrPathToFile: "images/savio.png",
-                rankColor: "Green"
+                inGameName: "",
+                rank: "",
+                skinUrlOrPathToFile: "",
+                rankColor: ""
             }    
         ],
     },
