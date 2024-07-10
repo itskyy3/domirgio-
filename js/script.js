@@ -57,23 +57,29 @@ const config = {
                 rankColor: "rgba(255, 3, 3, 1)"
             },
             {
-                inGameName: "SantaTeox",
-                rank: "Owner",
-                skinUrlOrPathToFile: "images/teoxgay.png",
-                rankColor: "rgba(255, 3, 3, 1)"
-            },
-            {
                 inGameName: "DESKTOP99",
                 rank: "Owner",
                 skinUrlOrPathToFile: "images/desktop.png",
                 rankColor: "rgba(255, 3, 3, 1)"
-            }
+            },
+            {
+                inGameName: "",
+                rank: "",
+                skinUrlOrPathToFile: "",
+                rankColor: ""
+            },
         ],
         COOwner: [
             {
                 inGameName: "SuperCiola",
                 rank: "COOwner",
                 skinUrlOrPathToFile: "images/superciola.png",
+                rankColor: "rgba(255, 3, 3, 1)"
+            },
+            {
+                inGameName: "SantaTeox",
+                rank: "COOwner",
+                skinUrlOrPathToFile: "images/teoxgay.png",
                 rankColor: "rgba(255, 3, 3, 1)"
             },
             {
@@ -199,10 +205,10 @@ const config = {
                 rankColor: "Green"
             },
             {
-                inGameName: "",
-                rank: "",
-                skinUrlOrPathToFile: "",
-                rankColor: ""
+                inGameName: "JustTroll",
+                rank: "Helper",
+                skinUrlOrPathToFile: "images/troll.png",
+                rankColor: "Green"
             },
             {
                 inGameName: "",
