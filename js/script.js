@@ -211,10 +211,10 @@ const config = {
                 rankColor: "Green"
             },
             {
-                inGameName: "",
-                rank: "",
-                skinUrlOrPathToFile: "",
-                rankColor: ""
+                inGameName: "Mr_Rikk",
+                rank: "Helper",
+                skinUrlOrPathToFile: "images/Mr_Rikk.png",
+                rankColor: "Green"
             }    
         ],
     },
